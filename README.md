@@ -13,10 +13,10 @@
 "ColorBtnBg": "#00fokfkfka043",
 "ColorBtnCancell": "#ffowoqpappdpffppff",
 "ColorBtnCancellBg": "#fjfjjfj",
-"Cancellable": "true",
-"MessageID": "99",
-"ShowTime": "10",
-"Button": "پـیـوسـتـن",
-"ButtonCancell": "بـعـدا",
+"Cancellable": "false",
+"MessageID": "100",
+"ShowTime": "999999",
+"Button": "",
+"ButtonCancell": "",
 "Show": "on"
 }
